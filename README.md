@@ -1,5 +1,11 @@
 # SchemeBasicCalculator
 
+This is a project that I made in college in Costa Rica, I think was one of the last courses of programming
+Universidad Nacional de Costa Rica.
+The description and documentation is in Spanish, sorry about that.
+
+
+
 Introducción
 
 El presente trabajo, es un proyecto programado, el cual pretende ampliar los conocimientos en los diferentes paradigmas de programación. En este caso específico en la programación funcional como lo es el language Scheme. Por ende se ha recomendado por parte del profesor a utilizar el editor DrRacket.
